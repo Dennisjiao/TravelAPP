@@ -12,10 +12,17 @@
 ### Operating environment requirements:
 -   System requirements：Android 11.0 x86
 
-###
+### Database
 -   Database: Firebase
 -   Access path eg :DepartureDays -> Weekday -> Castles -> Alnwick (Castle Name) ->OutboundBues -> 0715-0930(time) -> route details
--   <img src="https://github.com/Dennisjiao/TravelAPP/blob/main/TrealAppImage/0.png" width="240px">
+   <img src="https://github.com/Dennisjiao/TravelAPP/blob/main/TrealAppImage/0.png" width="800px">
+
+### Api
+-   Google map Api (国内需要改成百度地图Api等，否则影响地图读取显示和推荐页面查询周边餐厅，食物等)
+
+### Test models
+-   Huawei PAR-AL00, EMUI version: 9.1.0, Android version: 9
+-   Galaxy Note20 Ultra, SM-N9860, One UI version: 4.1, Android version: 12
 
 ## Page Display
 ### Welcome Page
