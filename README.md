@@ -11,3 +11,9 @@
 
 ### Operating environment requirements:
 -   System requirements：Android 11.0 x86
+
+### Welcome Page
+<img src="https://github.com/Dennisjiao/TravelAPP/blob/main/TrealAppImage/Screenshot_20220611-192345.jpg" width="240px"> <img src="https://github.com/Dennisjiao/TravelAPP/blob/main/TrealAppImage/Screenshot_20220611-192351.jpg" width="240px">
+<img src="https://github.com/Dennisjiao/TravelAPP/blob/main/TrealAppImage/Screenshot_20220611-192354.jpg" width="240px">
+<img src="https://github.com/Dennisjiao/TravelAPP/blob/main/TrealAppImage/Screenshot_20220611-192357.jpg" width="240px">
+
