@@ -12,6 +12,12 @@
 ### Operating environment requirements:
 -   System requirements：Android 11.0 x86
 
+###
+-   Database: Firebase
+-   Access path eg :DepartureDays -> Weekday -> Castles -> Alnwick (Castle Name) ->OutboundBues -> 0715-0930(time) -> route details
+-   <img src="https://github.com/Dennisjiao/TravelAPP/blob/main/TrealAppImage/0.png" width="240px">
+
+## Page Display
 ### Welcome Page
 <img src="https://github.com/Dennisjiao/TravelAPP/blob/main/TrealAppImage/Screenshot_20220611-192345.jpg" width="240px"> <img src="https://github.com/Dennisjiao/TravelAPP/blob/main/TrealAppImage/Screenshot_20220611-192351.jpg" width="240px">
 <img src="https://github.com/Dennisjiao/TravelAPP/blob/main/TrealAppImage/Screenshot_20220611-192354.jpg" width="240px">
